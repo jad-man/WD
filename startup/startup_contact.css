@@ -1,0 +1,44 @@
+body{
+	font-family:'Open Sans', sans-serif;
+}
+
+h1{
+	font-size: 70px;
+	color: #6f8cbc;
+}
+
+.container1{
+	float: left;
+	border-style: solid;
+	border-width: 10px;
+}
+
+.container2{
+	float: left;
+	border-style: solid;
+	border-width: 10px;
+}
+
+.container3{
+	float:  left;
+	border-style: solid;
+	border-width: 10px;
+}
+
+.container4{
+	float: left;
+	border-style: solid;
+	border-width: 10px;
+}
+
+.container5{
+	float: left;
+	border-style: solid;
+	border-width: 10px;
+}
+
+.container6{
+	float: left;
+	border-style: solid;
+	border-width: 10px;
+}
