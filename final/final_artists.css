@@ -1,11 +1,28 @@
-.jumbotron{
+.jumbotron1{
 	border-top-left-radius: 0px 0px;
 	border-top-right-radius: 500px 200px;
 	border-bottom-left-radius: 500px 200px;
 	border-bottom-right-radius: 0px 0px;
-	height: 200px;
+	height: 400px;
 	background-position: 50% 50%;
 	background-image: url("jad_long.png");
+}
+.jumbotron2{
+	float: left;
+	border-top-left-radius: 0px 0px;
+	border-top-right-radius: 100px 25px;
+	border-bottom-left-radius: 40px 25px;
+	border-bottom-right-radius: 0px 0px;
+	height: 400px;
+	background-position: 50% 50%;
+	background-image: url("mike.png");
+}
+h1{
+	font-family:'Open Sans', sans-serif;
+	position: relative;
+	float: left;
+	width: 900px;
+	height: 100px;
 }
 div.jad{
 	float:left;
@@ -26,20 +43,5 @@ p{
 	background-color: #e0d5d5;
 	padding: 70px;
 }
-h1{
-	font-family:'Open Sans', sans-serif;
-	position: relative;
-	float: left;
-	width: 900px;
-	height: 100px;
-}
-.jumbotron{
-	float: left;
-	border-top-left-radius: 0px 0px;
-	border-top-right-radius: 100px 25px;
-	border-bottom-left-radius: 40px 25px;
-	border-bottom-right-radius: 0px 0px;
-	height: 200px;
-	background-position: 50% 50%;
-	background-image: url();
-}
+
+
