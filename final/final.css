@@ -12,13 +12,31 @@ div.navbar-header{
 .link-row{
 	float: center;
 }
-
 .jumbotron{
 	border-top-left-radius: 0px 0px;
 	border-top-right-radius: 100px 25px;
 	border-bottom-left-radius: 40px 25px;
 	border-bottom-right-radius: 0px 0px;
-	height: 600px;
+	height: 800px;
 	background-position: 50% 50%;
-	background-image: url();
+	background-image: url("mike_main.png");
+}
+h1{
+	font-family:'Open Sans', sans-serif;
+	font-size: 30px;
+	font-color: white;
+}
+div.details{
+	float:left;
+	margin-left: auto;
+	margin-top: auto;
+}
+p{
+	font-family:'Open Sans', sans-serif;
+	font-size: 30px;
+	border-color: #e0d5d5;
+	border-style: solid;
+	border-width: 10px;
+	background-color: #e0d5d5;
+	padding: 70px;
 }
