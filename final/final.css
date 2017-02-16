@@ -1,0 +1,24 @@
+
+li>a{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+div.navbar-header{
+	margin: 5px;	
+}
+
+.link-row{
+	float: center;
+}
+
+.jumbotron{
+	border-top-left-radius: 0px 0px;
+	border-top-right-radius: 100px 25px;
+	border-bottom-left-radius: 40px 25px;
+	border-bottom-right-radius: 0px 0px;
+	height: 600px;
+	background-position: 50% 50%;
+	background-image: url();
+}
